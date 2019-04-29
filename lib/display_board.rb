@@ -37,7 +37,7 @@ def display_board(board)
 end
 
 board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
-
+def display_board(board)
   puts " X | X | X "
   puts "-----------"
   puts "   |   |   "
